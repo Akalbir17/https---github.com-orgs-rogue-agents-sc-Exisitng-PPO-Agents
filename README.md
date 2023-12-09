@@ -1,14 +1,9 @@
 # rogue-gym-agents-cog19
-This repository contains codes for exprimens in
+This repository contains replicated codes for exprimens in
 [COG2019 Rogue-Gym: A New Challenge for Generalization in Reinforcement Learning](https://arxiv.org/abs/1904.08129).
 
 ## Watch agents
 Here I show gifs of agents appeared in Section 6.4 in the paper.
-
-### Overfitted Agent
-CNN + 10 training seeds
-
-![Overfitted](pictures/overfitted.gif)
 
 ### Generalized Agent
 ResNet + L2 regularization + 40 training seeds
