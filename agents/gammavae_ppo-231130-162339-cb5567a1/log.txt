@@ -1,0 +1,3 @@
+EXP::{"elapsed-time": 140.853933, "entropy_loss": 2.397895472049713, "latent_loss": 13.144004066437482, "name": "loss", "policy_loss": 1.4818475028732791e-05, "recons_loss": 1395.0202294921876, "update-steps": 0, "value_loss": 7.045679112076759}
+EXP::{"elapsed-time": 2470.801231, "episodes": 100, "length-mean": 500, "name": "train", "reward-max": 157.0, "reward-mean": 11.329999923706055, "reward-min": 0.0, "reward-stdev": 27.274181365966797, "update-steps": 16}
+EXP::{"elapsed-time": 4186.204848, "episodes": 200, "length-mean": 500, "name": "train", "reward-max": 157.0, "reward-mean": 17.733871459960938, "reward-min": 0.0, "reward-stdev": 32.80074691772461, "update-steps": 28}
