@@ -2,9 +2,6 @@
 This repository contains replicated codes for expriments in
 [COG2019 Rogue-Gym: A New Challenge for Generalization in Reinforcement Learning](https://arxiv.org/abs/1904.08129).
 
-## Watch agents
-Here I show gifs of agents appeared in Section 6.4 in the paper.
-
 ### Generalized Agent
 ResNet + L2 regularization + 40 training seeds
 
