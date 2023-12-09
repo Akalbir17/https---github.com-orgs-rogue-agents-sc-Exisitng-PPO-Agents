@@ -1,5 +1,5 @@
 # rogue-gym-agents-cog19
-This repository contains replicated codes for exprimens in
+This repository contains replicated codes for expriments in
 [COG2019 Rogue-Gym: A New Challenge for Generalization in Reinforcement Learning](https://arxiv.org/abs/1904.08129).
 
 ## Watch agents
