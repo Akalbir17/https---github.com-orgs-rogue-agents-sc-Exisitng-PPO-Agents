@@ -1,8 +1,8 @@
-# rogue-gym-agents-cog19
+## Existing PPO Agents
 This repository contains replicated codes for expriments in
 [COG2019 Rogue-Gym: A New Challenge for Generalization in Reinforcement Learning](https://arxiv.org/abs/1904.08129).
 
-### Generalized Agent
+## Generalized Agent
 ResNet + L2 regularization + 40 training seeds
 
 ![Generalized](pictures/generalized.gif)
